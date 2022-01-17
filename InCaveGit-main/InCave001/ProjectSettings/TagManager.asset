@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Frog
+  - Gems
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Sprites
+  - Water
+  - UI
+  - BackGround
+  - Decorations
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Decoration
+    uniqueID: 434838445
+    locked: 0
+  - name: Sprites
+    uniqueID: 1430426781
+    locked: 0
+  - name: BackGround
+    uniqueID: 482755267
+    locked: 0

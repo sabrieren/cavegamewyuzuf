@@ -1,0 +1,1219 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'tr' Physical Memory: 16173 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/zabri/OneDrive/Masaüstü/InCaveGit-main/InCave001
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51278
+Successfully changed project path to: C:/Users/zabri/OneDrive/Masaüstü/InCaveGit-main/InCave001
+C:/Users/zabri/OneDrive/Masaüstü/InCaveGit-main/InCave001
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 63.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/zabri/OneDrive/Masaüstü/InCaveGit-main/InCave001/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.14.9649
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001834 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.527 seconds
+Domain Reload Profiling:
+	ReloadAssembly (528ms)
+		BeginReloadAssembly (49ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (414ms)
+			LoadAssemblies (47ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (133ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (166ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (59ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (71ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004620 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 59.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.016 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1017ms)
+		BeginReloadAssembly (128ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (833ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (270ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (329ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (59ms)
+				BeforeProcessingInitializeOnLoad (65ms)
+				ProcessInitializeOnLoadAttributes (181ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2344 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.2 MB.
+System memory in use after: 103.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2778.
+Total: 2.847100 ms (FindLiveObjects: 0.180600 ms CreateObjectMapping: 0.098000 ms MarkObjects: 2.517300 ms  DeleteObjects: 0.050200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/DSorzKpX4AAp8dv.png
+  artifactKey: Guid(0dbb5444c29c943479e54e695e911f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DSorzKpX4AAp8dv.png using Guid(0dbb5444c29c943479e54e695e911f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df97cf9dbf585c0f9319836d07ae1d75') in 0.081548 seconds 
+  Import took 0.084835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.175287 seconds.
+  path: Assets/153029775c17155d2afe01b88614d7df.png
+  artifactKey: Guid(ac7019049513e374abfa73e3e612af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/153029775c17155d2afe01b88614d7df.png using Guid(ac7019049513e374abfa73e3e612af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a85ef5c19b75af65bd531d7e97c414') in 0.035742 seconds 
+  Import took 0.039556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.975132 seconds.
+  path: Assets/wp1933952.jpg
+  artifactKey: Guid(0671f27bb2f13584c8763faf47943156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/wp1933952.jpg using Guid(0671f27bb2f13584c8763faf47943156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd995a63d09397123e4e3e3d5c3bf24b') in 0.019818 seconds 
+  Import took 0.023518 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004454 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.928 seconds
+Domain Reload Profiling:
+	ReloadAssembly (929ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (760ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (273ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (268ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (189ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.5 MB.
+System memory in use after: 105.7 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2790.
+Total: 2.696300 ms (FindLiveObjects: 0.174500 ms CreateObjectMapping: 0.096900 ms MarkObjects: 2.410000 ms  DeleteObjects: 0.014100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004496 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.908 seconds
+Domain Reload Profiling:
+	ReloadAssembly (908ms)
+		BeginReloadAssembly (101ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (751ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (270ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (270ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (192ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.5 MB.
+System memory in use after: 105.8 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2792.
+Total: 2.737000 ms (FindLiveObjects: 0.195100 ms CreateObjectMapping: 0.106000 ms MarkObjects: 2.420800 ms  DeleteObjects: 0.014100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004673 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.952 seconds
+Domain Reload Profiling:
+	ReloadAssembly (952ms)
+		BeginReloadAssembly (98ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (797ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (270ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (287ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (192ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.6 MB.
+System memory in use after: 105.8 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2794.
+Total: 2.947300 ms (FindLiveObjects: 0.206700 ms CreateObjectMapping: 0.120700 ms MarkObjects: 2.600400 ms  DeleteObjects: 0.018400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005220 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.914 seconds
+Domain Reload Profiling:
+	ReloadAssembly (914ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (755ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (273ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (269ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (190ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.6 MB.
+System memory in use after: 105.8 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2796.
+Total: 2.861800 ms (FindLiveObjects: 0.232300 ms CreateObjectMapping: 0.148400 ms MarkObjects: 2.463000 ms  DeleteObjects: 0.017000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2843.794276 seconds.
+  path: Assets/digital-art-fantasy-art-cave-boat-bats-hd-wallpaper-preview.jpg
+  artifactKey: Guid(4054ec321f7fcd64593f686fa67a11d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/digital-art-fantasy-art-cave-boat-bats-hd-wallpaper-preview.jpg using Guid(4054ec321f7fcd64593f686fa67a11d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b8b7862f73bab99d86ed70c0f059a0') in 0.061726 seconds 
+  Import took 0.065931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 270.981908 seconds.
+  path: Packages/com.unity.2d.animation
+  artifactKey: Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation using Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09fa518512abe465e781a54efa05d46a') in 0.001832 seconds 
+  Import took 0.005561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016635 seconds.
+  path: Packages/com.unity.2d.animation/package.json
+  artifactKey: Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/package.json using Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9762aeaf1aec135d86561c4fe80c577') in 0.005461 seconds 
+  Import took 0.009567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.510954 seconds.
+  path: Assets/Warped Caves/Artwork/Environment/Props/Sprites/enemies/jumper-idle/jumper-idle-1.png
+  artifactKey: Guid(2f933e65ab55a416590f7d39ec8a800d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped Caves/Artwork/Environment/Props/Sprites/enemies/jumper-idle/jumper-idle-1.png using Guid(2f933e65ab55a416590f7d39ec8a800d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3775d18fb69052ae7c1613934f881d5f') in 0.016025 seconds 
+  Import took 0.019916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Warped Caves/Artwork/Environment/Props/Sprites/enemies/jumper-idle/jumper-idle-4.png
+  artifactKey: Guid(433af8dc25b274317a83915e319e95f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped Caves/Artwork/Environment/Props/Sprites/enemies/jumper-idle/jumper-idle-4.png using Guid(433af8dc25b274317a83915e319e95f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '432ab88545caeba04a5a8a6248ae62b4') in 0.019242 seconds 
+  Import took 0.022244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Warped Caves/Artwork/Environment/Props/Sprites/enemies/jumper-jump/jumper-jump.png
+  artifactKey: Guid(f122e0863fe7e47099afd0b40ef015d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped Caves/Artwork/Environment/Props/Sprites/enemies/jumper-jump/jumper-jump.png using Guid(f122e0863fe7e47099afd0b40ef015d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '302685cd736f000bbbfb1a267e2bb853') in 0.017541 seconds 
+  Import took 0.020998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Warped Caves/Artwork/Environment/Props/Sprites/enemies/jumper-idle/jumper-idle-3.png
+  artifactKey: Guid(f590bf1777e384a8ea515e0197188aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped Caves/Artwork/Environment/Props/Sprites/enemies/jumper-idle/jumper-idle-3.png using Guid(f590bf1777e384a8ea515e0197188aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7aec12a4187b5b82e460abfb0176f9') in 0.021423 seconds 
+  Import took 0.025002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Warped Caves/Artwork/Environment/Props/Sprites/enemies/jumper-idle/jumper-idle-2.png
+  artifactKey: Guid(1af4bb3f268d54970bd20e21e59905eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped Caves/Artwork/Environment/Props/Sprites/enemies/jumper-idle/jumper-idle-2.png using Guid(1af4bb3f268d54970bd20e21e59905eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1bdbc133b9cde3c1bb140e7e732ddc') in 0.010108 seconds 
+  Import took 0.014107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.534123 seconds.
+  path: Assets/Deep Caves Assets
+  artifactKey: Guid(2f7c48b035169bc43a03051429751afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets using Guid(2f7c48b035169bc43a03051429751afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a733bae9a5f7c81b8d530e6c8c1259bf') in 0.002001 seconds 
+  Import took 0.005509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.986414 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/player/run
+  artifactKey: Guid(36eea592e53a047d6be03259ef1ee568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/player/run using Guid(36eea592e53a047d6be03259ef1ee568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f454e5d4e95ba7657190c750407984a7') in 0.001652 seconds 
+  Import took 0.005518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.058606 seconds.
+  path: Assets/Deep Caves Assets/Cave 1
+  artifactKey: Guid(58eefdfeba91e934bb050a60bc9a16fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Cave 1 using Guid(58eefdfeba91e934bb050a60bc9a16fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccbe9e96e0482b347ac624bb34b0fff5') in 0.002155 seconds 
+  Import took 0.006160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088155 seconds.
+  path: Assets/Deep Caves Assets/Cave 1/Biome1Bg1.png
+  artifactKey: Guid(46ebe6a21d5716d40acddb275687c7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Cave 1/Biome1Bg1.png using Guid(46ebe6a21d5716d40acddb275687c7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51efa5362816598659263ae8eebeef3') in 0.009998 seconds 
+  Import took 0.013628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Deep Caves Assets/Cave 1/Cave_Biome1Decs.png
+  artifactKey: Guid(c696d9fb8af98824dbfc8284a4efdb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Cave 1/Cave_Biome1Decs.png using Guid(c696d9fb8af98824dbfc8284a4efdb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982d9002fdc49a8a40f77877639df4cd') in 0.009598 seconds 
+  Import took 0.012668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Deep Caves Assets/Cave 1/Biome1Bg2.png
+  artifactKey: Guid(74aa6810135efe8449773c65a38c6dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Cave 1/Biome1Bg2.png using Guid(74aa6810135efe8449773c65a38c6dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5206a33ad20c3d7b1edcc8358d295229') in 0.008037 seconds 
+  Import took 0.010908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Deep Caves Assets/Cave 1/Biome1Bg4.png
+  artifactKey: Guid(dc4dd45e720849344907663af936b320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Cave 1/Biome1Bg4.png using Guid(dc4dd45e720849344907663af936b320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20732fb5feb030201df846e7d6bb589') in 0.008883 seconds 
+  Import took 0.011844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Deep Caves Assets/Cave 1/Cave_Biome1.png
+  artifactKey: Guid(bfed97cf98184934696604173bdaaf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Cave 1/Cave_Biome1.png using Guid(bfed97cf98184934696604173bdaaf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701143ccf998315df26ce5ab3f3cba09') in 0.009979 seconds 
+  Import took 0.012938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Deep Caves Assets/Cave 1/Biome1Bg3.png
+  artifactKey: Guid(267aa96bc61c56c438e4cd6e5d18e0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Cave 1/Biome1Bg3.png using Guid(267aa96bc61c56c438e4cd6e5d18e0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb607857653178f52827deb7c9d7520') in 0.008029 seconds 
+  Import took 0.010957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.428283 seconds.
+  path: Assets/Deep Caves Assets/Cave 1/New Palette.prefab
+  artifactKey: Guid(628f050cb357d5e428442e7c7a167e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Cave 1/New Palette.prefab using Guid(628f050cb357d5e428442e7c7a167e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bdc4e4d1d9d1d6423047744236a16f3') in 0.035190 seconds 
+  Import took 0.039360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.015918 seconds.
+  path: Assets/Deep Caves Assets/Cave 1/Cave_Biome1Decs.asset
+  artifactKey: Guid(18da83f4f60b731478e206a384092981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Cave 1/Cave_Biome1Decs.asset using Guid(18da83f4f60b731478e206a384092981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '609c84fd9556cbf29c168858afce45f0') in 0.031275 seconds 
+  Import took 0.034870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Deep Caves Assets/Cave 1/New Palette.prefab
+  artifactKey: Guid(628f050cb357d5e428442e7c7a167e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Cave 1/New Palette.prefab using Guid(628f050cb357d5e428442e7c7a167e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc335f8e05b37cac5ed1dd02f8f1158') in 0.008526 seconds 
+  Import took 0.011909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.384783 seconds.
+  path: Packages/com.unity.ugui/package.json
+  artifactKey: Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/package.json using Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d1f12f0f4420a8b9dea50868bbb5d0') in 0.002314 seconds 
+  Import took 0.005565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.650173 seconds.
+  path: Packages/com.unity.ide.vscode/package.json
+  artifactKey: Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode/package.json using Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2eb58b715695d862cee57d9b6e36af') in 0.002157 seconds 
+  Import took 0.005482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.042553 seconds.
+  path: Packages/com.unity.ide.visualstudio/package.json
+  artifactKey: Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/package.json using Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dbbbecbf6b62e0f0ea428d10de5a339') in 0.002278 seconds 
+  Import took 0.005611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.595754 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor
+  artifactKey: Guid(4a707af59e3522d43afe34dfc4429b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor using Guid(4a707af59e3522d43afe34dfc4429b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25d0ef153b012297fad9fd32b854b41') in 0.001806 seconds 
+  Import took 0.005325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100497 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/com.unity.ide.visualstudio.asmdef
+  artifactKey: Guid(b93f844d45cfcc44fa2b0eed5c9ec6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/com.unity.ide.visualstudio.asmdef using Guid(b93f844d45cfcc44fa2b0eed5c9ec6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c166c5239c9f94d6347c9b443d9b01') in 0.003040 seconds 
+  Import took 0.006324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.236582 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/SolutionParser.cs
+  artifactKey: Guid(fbbb1ee655846b043baf6c3502b5ce49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/SolutionParser.cs using Guid(fbbb1ee655846b043baf6c3502b5ce49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bbbd005e99094a98a5e7d5026a93cfa') in 0.014410 seconds 
+  Import took 0.017844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 275.666422 seconds.
+  path: Assets/Cainos
+  artifactKey: Guid(245e295c0967e63459d37aec032b184f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos using Guid(245e295c0967e63459d37aec032b184f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aba44299a16ee3862727f825cd8ae9a') in 0.001919 seconds 
+  Import took 0.006148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.753114 seconds.
+  path: Assets/Pixel Fantasy Caves
+  artifactKey: Guid(da9fc389c8ad702438246fe46a6b7cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves using Guid(da9fc389c8ad702438246fe46a6b7cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ce5c97ede8c17e37f98b85b67d4008') in 0.002043 seconds 
+  Import took 0.005659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.287189 seconds.
+  path: Assets/Pixel Fantasy Caves/background1.png
+  artifactKey: Guid(38dfa8c3b7cb9c34e8728c80c179319a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/background1.png using Guid(38dfa8c3b7cb9c34e8728c80c179319a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '045903be60734beaff8ae937c0ef7e94') in 0.010004 seconds 
+  Import took 0.013579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Pixel Fantasy Caves/background4b.png
+  artifactKey: Guid(f2c63cd02a5021e4aa78859519eef703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/background4b.png using Guid(f2c63cd02a5021e4aa78859519eef703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473c8784cbebb214f57422f8ff5eff90') in 0.009254 seconds 
+  Import took 0.012245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Pixel Fantasy Caves/mainlev_build.png
+  artifactKey: Guid(a2148cb95fda2a246b72a3834f9dc4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/mainlev_build.png using Guid(a2148cb95fda2a246b72a3834f9dc4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8f0288736fad3c6fd2d66f2a494062') in 0.010339 seconds 
+  Import took 0.013355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Pixel Fantasy Caves/background2.png
+  artifactKey: Guid(ab399925d444e6945b12d20b9f3f62f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/background2.png using Guid(ab399925d444e6945b12d20b9f3f62f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b53a9744de8db178236697498d9600') in 0.007803 seconds 
+  Import took 0.010753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Pixel Fantasy Caves/props2.png
+  artifactKey: Guid(527d271e3ba3f9843ba89bf17ea61f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/props2.png using Guid(527d271e3ba3f9843ba89bf17ea61f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca895cd9fd8de09e545d1eb7bc629a28') in 0.009447 seconds 
+  Import took 0.012406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Pixel Fantasy Caves/background3.png
+  artifactKey: Guid(d9caa294ebb856845a4e0af508e49dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/background3.png using Guid(d9caa294ebb856845a4e0af508e49dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8aa881899ff42e8ef8562b200abc96') in 0.007961 seconds 
+  Import took 0.010902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Pixel Fantasy Caves/background4a.png
+  artifactKey: Guid(335e30b416040a24b88a1c16eda337f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/background4a.png using Guid(335e30b416040a24b88a1c16eda337f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0a6c1ec4d3492688211b97279edfd2e') in 0.008965 seconds 
+  Import took 0.012208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Pixel Fantasy Caves/props1.png
+  artifactKey: Guid(3cf71ed10f82738479ff578acaa2e9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/props1.png using Guid(3cf71ed10f82738479ff578acaa2e9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a47bd0b8baf4a09b320006aa5cf60f') in 0.013416 seconds 
+  Import took 0.017375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.617654 seconds.
+  path: Assets/Pixel Fantasy Caves/Scenes
+  artifactKey: Guid(99582f7721c94254ca8a28001f97d678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Scenes using Guid(99582f7721c94254ca8a28001f97d678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa861e70263a1013c472399607570d9') in 0.001554 seconds 
+  Import took 0.004987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.907190 seconds.
+  path: Assets/Pixel Fantasy Caves/Scenes/Demo.unity
+  artifactKey: Guid(d3d673a5fd497f6408b9435d67f0ee47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Scenes/Demo.unity using Guid(d3d673a5fd497f6408b9435d67f0ee47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276aca6928f57e45df006cae66c156f7') in 0.001929 seconds 
+  Import took 0.005900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.217316 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578f364aebb260d3b0c9e610d3e2ddae') in 0.002006 seconds 
+  Import took 0.005797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.442118 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced
+  artifactKey: Guid(d8adb517ca8695442b36776340a1ec8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced using Guid(d8adb517ca8695442b36776340a1ec8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5f43d12e00aa6f643a48575f309bde') in 0.001604 seconds 
+  Import took 0.005078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126153 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build.png
+  artifactKey: Guid(f3431b64a116bf248a3f497144e67b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build.png using Guid(f3431b64a116bf248a3f497144e67b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7691cd9be5fb603967dab11bfe1a6267') in 1.468813 seconds 
+  Import took 1.475296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/props1.png
+  artifactKey: Guid(c244c027ceea8f04b91dcc837253127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/props1.png using Guid(c244c027ceea8f04b91dcc837253127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe622c8ccac5a72d6a916e428e63811') in 3.437935 seconds 
+  Import took 3.448704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/props2.png
+  artifactKey: Guid(c88f92988ad2f8e46a53fc0098c7c956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/props2.png using Guid(c88f92988ad2f8e46a53fc0098c7c956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5f91f2c0acece487636f22a16743971') in 2.664116 seconds 
+  Import took 2.675272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.749203 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/New Palette.prefab
+  artifactKey: Guid(5de2528f1e25c5f4ca9c11cbc41137c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/New Palette.prefab using Guid(5de2528f1e25c5f4ca9c11cbc41137c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb199d9ef7ee1680b03598029c095159') in 0.010862 seconds 
+  Import took 0.015322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.957216 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_0.asset
+  artifactKey: Guid(47e5afdd243029041be84b89685b15df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_0.asset using Guid(47e5afdd243029041be84b89685b15df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2d7e3d74c747578bcd24bec7febd85') in 0.014141 seconds 
+  Import took 0.019435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_22.asset
+  artifactKey: Guid(f2392fef2b49ef44c81618fd09cb7a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_22.asset using Guid(f2392fef2b49ef44c81618fd09cb7a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79dfb943ae7687f44e1c0cc747ddb982') in 0.016663 seconds 
+  Import took 0.021909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_4.asset
+  artifactKey: Guid(91bf96b60ad698d4396de82b96d09bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_4.asset using Guid(91bf96b60ad698d4396de82b96d09bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa6c9122715f5528d0d316225a920fd8') in 0.013977 seconds 
+  Import took 0.019541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_29.asset
+  artifactKey: Guid(26a2c61b4263d5b4ea2fcdded377663c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_29.asset using Guid(26a2c61b4263d5b4ea2fcdded377663c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06d18aa7e2342769b5ba5dce01eafa1e') in 0.016925 seconds 
+  Import took 0.021859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_35.asset
+  artifactKey: Guid(74aa9ffcbf9f4914a96639b35d88b62e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_35.asset using Guid(74aa9ffcbf9f4914a96639b35d88b62e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1b06e6ea7b6799b70719ee5913cbe3') in 0.014606 seconds 
+  Import took 0.019594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_5.asset
+  artifactKey: Guid(cde160f8fbf439e4da84f71878ade01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_5.asset using Guid(cde160f8fbf439e4da84f71878ade01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e48a7ebc843214603c1522cf20cfd2b') in 0.012416 seconds 
+  Import took 0.017905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_39.asset
+  artifactKey: Guid(d616fe9157198d0479013c2453b5cf98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_39.asset using Guid(d616fe9157198d0479013c2453b5cf98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c350750690ee4c2ac0c608718da2d781') in 0.014461 seconds 
+  Import took 0.019985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_30.asset
+  artifactKey: Guid(5decce3e6cd02e34f808a70f0ed910dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_30.asset using Guid(5decce3e6cd02e34f808a70f0ed910dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024f4b0005c1f270dbc2134b9fad154a') in 0.016667 seconds 
+  Import took 0.021351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_37.asset
+  artifactKey: Guid(5ea04a148006e3d4e8d8e831d459e091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_37.asset using Guid(5ea04a148006e3d4e8d8e831d459e091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e94579cc5eed1ff21be8a33fee0e7f40') in 0.015732 seconds 
+  Import took 0.022103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_31.asset
+  artifactKey: Guid(290329c866efbf547ab40a69e666c3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_31.asset using Guid(290329c866efbf547ab40a69e666c3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e170222d53f5ede30f7e9bc12c4fa18d') in 0.020649 seconds 
+  Import took 0.027135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_13.asset
+  artifactKey: Guid(8c13e7d14e8a18247b0986cfa0d96e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_13.asset using Guid(8c13e7d14e8a18247b0986cfa0d96e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c81ef87757de0f72afc8278d9fd5010a') in 0.017171 seconds 
+  Import took 0.023121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_10.asset
+  artifactKey: Guid(30768ebb27773934ebeb349d2b31c2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_10.asset using Guid(30768ebb27773934ebeb349d2b31c2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee44bf45171f59590129629f758c018') in 0.020200 seconds 
+  Import took 0.026347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_12.asset
+  artifactKey: Guid(25592aa93ad2fa1439c96e2498caad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_12.asset using Guid(25592aa93ad2fa1439c96e2498caad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9c112cbff662ec324eb6a2f02b111e') in 0.015741 seconds 
+  Import took 0.021370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_20.asset
+  artifactKey: Guid(ffd3b28d79fc2b8409eb4c7d2e3138ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_20.asset using Guid(ffd3b28d79fc2b8409eb4c7d2e3138ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37c3e8405a37dfe4e0aba6b4d053c597') in 0.015447 seconds 
+  Import took 0.021148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_19.asset
+  artifactKey: Guid(9cf90061a79a91b42847c27d49259694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_19.asset using Guid(9cf90061a79a91b42847c27d49259694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354b8fff9a2b78600df4faea136a748a') in 0.018033 seconds 
+  Import took 0.023038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_25.asset
+  artifactKey: Guid(0632a41c87849184bbbda5d68a25daf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_25.asset using Guid(0632a41c87849184bbbda5d68a25daf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b3c308129d928a6cdce8e9e99b742d') in 0.013810 seconds 
+  Import took 0.019516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_3.asset
+  artifactKey: Guid(3e85ab6d8d841dc42ba04efc49642a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_3.asset using Guid(3e85ab6d8d841dc42ba04efc49642a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca9df55002ad4d39238f971f53f37d6') in 0.016335 seconds 
+  Import took 0.021608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_16.asset
+  artifactKey: Guid(dfc8ad7dae6966c48bbfc4cde563e65f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_16.asset using Guid(dfc8ad7dae6966c48bbfc4cde563e65f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31110eb427be4674f2f1ffbddc6374b8') in 0.014921 seconds 
+  Import took 0.020145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_26.asset
+  artifactKey: Guid(9d9c421843a24a649aaef38d594c69b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_26.asset using Guid(9d9c421843a24a649aaef38d594c69b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce39f6e68dab9538a1b8b90753a7aeb3') in 0.015414 seconds 
+  Import took 0.020311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_33.asset
+  artifactKey: Guid(a204876deb65ce94487065e6c8ded092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_33.asset using Guid(a204876deb65ce94487065e6c8ded092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b826d223bcf3786a7156d51b8c3545f') in 0.015024 seconds 
+  Import took 0.020344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_36.asset
+  artifactKey: Guid(5640caa9cd3cfe942abf46c479cf8104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_36.asset using Guid(5640caa9cd3cfe942abf46c479cf8104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb36e257f56b7f7d68cf70662883c50') in 0.014436 seconds 
+  Import took 0.019686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_28.asset
+  artifactKey: Guid(54a235142db629b469573b28f96db1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_28.asset using Guid(54a235142db629b469573b28f96db1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45f828fa0b36da32cd424bc74bff89e') in 0.014360 seconds 
+  Import took 0.019745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_15.asset
+  artifactKey: Guid(ae81a5b3004070d45aca3fa8337f1435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_15.asset using Guid(ae81a5b3004070d45aca3fa8337f1435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572839c71fcbf8caf626082d62c03f1f') in 0.015537 seconds 
+  Import took 0.021455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_9.asset
+  artifactKey: Guid(57002c8a746d1ea48a6144aab8eee45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_9.asset using Guid(57002c8a746d1ea48a6144aab8eee45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503898dc79367be3ebd618b67908a04f') in 0.015386 seconds 
+  Import took 0.021022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_11.asset
+  artifactKey: Guid(0908557cc2730934881a22cd5faf4109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_11.asset using Guid(0908557cc2730934881a22cd5faf4109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37cb0df4bd1458424cc8dcca3c2e6f4a') in 0.015189 seconds 
+  Import took 0.021958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_17.asset
+  artifactKey: Guid(56f6bae34cb5a8848b2b7f7b1a30a869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_17.asset using Guid(56f6bae34cb5a8848b2b7f7b1a30a869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e618c85de8223777eb1da664314ea7e5') in 0.014502 seconds 
+  Import took 0.020101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_6.asset
+  artifactKey: Guid(e531b798b6c3de14d9b059dad3422c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_6.asset using Guid(e531b798b6c3de14d9b059dad3422c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eddb5a9ac8b255f2c46744eb2e32b779') in 0.015039 seconds 
+  Import took 0.020074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_21.asset
+  artifactKey: Guid(e9ad3a5d11038ff438bbbe1ea28492fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_21.asset using Guid(e9ad3a5d11038ff438bbbe1ea28492fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5129c7a3eef8e6ff34fc6b37cab6e1c4') in 0.014764 seconds 
+  Import took 0.020430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_2.asset
+  artifactKey: Guid(e1b574b20ce19c54e8bdf377668998fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_2.asset using Guid(e1b574b20ce19c54e8bdf377668998fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59b07f011fb9f9e863ceaf6499bac7c0') in 0.017181 seconds 
+  Import took 0.023455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_32.asset
+  artifactKey: Guid(d421d90a8463a2a41936dbfe0435e737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_32.asset using Guid(d421d90a8463a2a41936dbfe0435e737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51a0683dfda0e5a8e92ed1fb4c0ac88') in 0.014955 seconds 
+  Import took 0.020842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_23.asset
+  artifactKey: Guid(1b2d7511153633f48a8544eb665d8f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_23.asset using Guid(1b2d7511153633f48a8544eb665d8f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be557d6f5ca3ab74c1ebb1c87bad9bfc') in 0.014465 seconds 
+  Import took 0.019329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_34.asset
+  artifactKey: Guid(e640a12aa6142f5448c947530c763e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_34.asset using Guid(e640a12aa6142f5448c947530c763e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b63f312fb82248c03e24cd1ac956e5') in 0.016400 seconds 
+  Import took 0.021081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_1.asset
+  artifactKey: Guid(daa1907cb46fd8a4ba238fcb52d0e9ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_1.asset using Guid(daa1907cb46fd8a4ba238fcb52d0e9ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796e1cb7857395037592b8fdbea6ac5c') in 0.016434 seconds 
+  Import took 0.021184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_7.asset
+  artifactKey: Guid(a2d4e0856af932f45a14ddada2146971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_7.asset using Guid(a2d4e0856af932f45a14ddada2146971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1132d63ada5c6e0b7b07eb262a4835d4') in 0.015493 seconds 
+  Import took 0.020654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_18.asset
+  artifactKey: Guid(e6fd820b62ccaf248aa2dd373b8ff9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_18.asset using Guid(e6fd820b62ccaf248aa2dd373b8ff9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c566a1cade225b95f9000e1614a99e') in 0.014650 seconds 
+  Import took 0.019766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_8.asset
+  artifactKey: Guid(9d7e4d635f162aa468d8b8392dcd507a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_8.asset using Guid(9d7e4d635f162aa468d8b8392dcd507a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73663543dbbf4c94aca8be8e038a88da') in 0.013301 seconds 
+  Import took 0.018062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_14.asset
+  artifactKey: Guid(599a5a678dc0a2f419cc0c6bea09b5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_14.asset using Guid(599a5a678dc0a2f419cc0c6bea09b5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7330c8073dd8066cf68cc3361d5553e2') in 0.012898 seconds 
+  Import took 0.018101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_38.asset
+  artifactKey: Guid(b4c0085175090c34ea7e60d911277997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_38.asset using Guid(b4c0085175090c34ea7e60d911277997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00da8ababd388bc23790fefb62cb77b') in 0.014212 seconds 
+  Import took 0.019871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_27.asset
+  artifactKey: Guid(78dd10e1e9982464e8038041a6be0999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_27.asset using Guid(78dd10e1e9982464e8038041a6be0999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91369b1e48064245bb1f14cd8cb9fb3e') in 0.020154 seconds 
+  Import took 0.025397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Pixel Fantasy Caves/Sliced/mainlev_build_24.asset
+  artifactKey: Guid(420e5e905b0b47346bd76790c2cfc888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/Sliced/mainlev_build_24.asset using Guid(420e5e905b0b47346bd76790c2cfc888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de94b9eb6756c0e1a1f2e16566e4e06') in 0.011215 seconds 
+  Import took 0.016396 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004926 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.981 seconds
+Domain Reload Profiling:
+	ReloadAssembly (981ms)
+		BeginReloadAssembly (101ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (817ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (313ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (283ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (62ms)
+				ProcessInitializeOnLoadAttributes (199ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.6 MB.
+System memory in use after: 107.9 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2810.
+Total: 2.970900 ms (FindLiveObjects: 0.180200 ms CreateObjectMapping: 0.113900 ms MarkObjects: 2.658200 ms  DeleteObjects: 0.017500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004554 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.050 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1050ms)
+		BeginReloadAssembly (98ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (897ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (292ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (353ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (252ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.8 MB.
+System memory in use after: 108.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2812.
+Total: 3.299800 ms (FindLiveObjects: 0.203400 ms CreateObjectMapping: 0.113400 ms MarkObjects: 2.965100 ms  DeleteObjects: 0.016800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004535 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.891 seconds
+Domain Reload Profiling:
+	ReloadAssembly (892ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (744ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (265ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (264ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (56ms)
+				ProcessInitializeOnLoadAttributes (185ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2331 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.8 MB.
+System memory in use after: 108.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2814.
+Total: 2.853600 ms (FindLiveObjects: 0.177500 ms CreateObjectMapping: 0.099900 ms MarkObjects: 2.560600 ms  DeleteObjects: 0.014700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
